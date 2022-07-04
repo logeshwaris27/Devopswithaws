@@ -1,0 +1,2 @@
+ hi this is my first file to commit in the git repo
+i am trying to explore git and github
